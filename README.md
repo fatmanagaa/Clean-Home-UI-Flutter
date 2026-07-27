@@ -1,16 +1,42 @@
-# clean_home_ui_flutterr
+# Clean Home UI - Grocery App 🛒
 
-A new Flutter project.
+A modern, responsive, and modular Grocery Shopping UI built with Flutter. This project demonstrates Clean Architecture principles and a scalable widget structure.
 
-## Getting Started
+## 📱 Home Screen Preview
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="screenshots/Screenshot_20260727_110746.png" width="350" alt="Home Screen Screenshot">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Key Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+*   **Responsive UI**: Fully adapted for all screen sizes using `flutter_screenutil`.
+*   **Modular Architecture**: Clean separation of concerns with reusable widgets.
+*   **Feature Highlights**:
+    *   **Custom AppBar**: Delivery location selector with interactive icons.
+    *   **Promo Slider**: Smooth horizontal banner carousel for offers.
+    *   **Categories**: Quick-access circular category section.
+    *   **Product Showcase**: Elegant product cards with price, rating, and quick-add functionality.
+    *   **Bottom Navigation**: Modern, styled navigation bar for seamless UX.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🏗️ Technical Stack
+
+*   **Framework**: [Flutter](https://flutter.dev/)
+*   **Layout & Scaling**: `flutter_screenutil`
+*   **UI Components**: `carousel_slider`, Custom Modular Widgets.
+*   **Architecture**: Clean Architecture (Presentation Layer).
+
+## 📁 Project Structure
+
+```text
+lib/
+├── core/              # Design system (Colors, Styles, Assets)
+└── features/
+    └── home/          # Home feature module
+        └── presentation/
+            ├── pages/    # Screen layouts
+            └── widgets/  # Atomic/Modular components
+```
+
+---
+*Developed with ❤️ focusing on Clean Code and UI/UX best practices.*
