@@ -1,6 +1,6 @@
  class AppAssets {
   static const String logo = 'assets/images/logo.png';
-  static const String banana = 'assets/images/Banana.png';
+  static const String banana = 'assets/images/image 44.png';
   static const String pepper= 'assets/images/pepper.png';
   static const String slider1 = 'assets/images/Slider 1.png';
   static const String slider2 = 'assets/images/Slider 2.png';
