@@ -5,8 +5,7 @@ A modern, responsive, and modular Grocery Shopping UI built with Flutter. This p
 ## 📱 Home Screen Preview
 
 <p align="center">
-  <img src="screenshots/Screenshot_20260727_110746.png" width="350" alt="Home Screen Screenshot 1">
-  <img src="screenshots/Screenshot_20260727_131103.png" width="350" alt="Home Screen Screenshot 2">
+  <img src="screenshots/Screenshot_20260727_194513.png" width="350" alt="Home Screen Screenshot">
 </p>
 
 ## 🚀 Key Features
