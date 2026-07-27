@@ -38,5 +38,3 @@ lib/
             └── widgets/  # Atomic/Modular components
 ```
 
----
-*Developed with ❤️ focusing on Clean Code and UI/UX best practices.*
