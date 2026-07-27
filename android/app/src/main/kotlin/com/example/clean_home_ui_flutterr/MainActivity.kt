@@ -1,3 +1,5 @@
 package com.example.clean_home_ui_flutterr
 
-class MainActivity : FlutterActivity()
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
